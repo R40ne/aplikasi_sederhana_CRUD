@@ -16,4 +16,4 @@ Aplikasi CRUD sederhana ini dibangun untuk memanipulasi data dengan fungsi **Cre
 ## Instalasi Aplikasi
 1. Clone repositori ini ke komputer Anda:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/username/nama-repo.git](https://github.com/R40ne/aplikasi_sederhana_CRUD.git
